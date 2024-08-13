@@ -39,7 +39,7 @@ I am Amihere Theophilus Junior, a passionate and driven Computer Science student
 
 ## 🎯 Projects
 
-### [Waste Trader Platform]([#](https://github.com/snrraptopack/waste-trader) 
+### [Waste Trader Platform](https://github.com/snrraptopack/waste-trader) 
 - **Description**: A platform to address waste management challenges in Ghana by connecting waste generators with recyclers and providing educational resources on sustainable waste management.
 - **Technologies**: React, Node.js, MongoDB, GitHub API, Docker.
 
