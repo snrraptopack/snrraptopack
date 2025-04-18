@@ -1,4 +1,3 @@
-Here’s an updated and polished version of your GitHub README/profile, incorporating your resume details and current projects while maintaining a professional and engaging tone:
 
 ---
 
@@ -86,7 +85,6 @@ REST APIs, Microservices, Async Programming, Escrow Workflows
 ### **🎨 Profile Customization Tip**  
 Add a GitHub **README.md** badge for your NPM package:  
 ```markdown
-[![npm version](https://img.shields.io/npm/v/promise-for-wrapper)](https://www.npmjs.com/package/promise-for-wrapper)
+[![3.1.1 ](https://img.shields.io/npm/v/promise-for-wrapper)](https://www.npmjs.com/package/promise-for-wrapper)
 ```  
 
-This version keeps it concise, highlights your strengths, and aligns with your resume. Let me know if you'd like tweaks!
