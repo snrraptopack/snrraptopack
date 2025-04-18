@@ -1,74 +1,92 @@
-# Amihere Theophilus Junior
-
-## 🌟 About Me
-
-I am Amihere Theophilus Junior, a passionate and driven Computer Science student with a focus on full-stack development and AI engineering. My journey in tech has been fueled by a desire to build impactful solutions, particularly in areas like waste management and text processing. I have a strong foundation in both frontend and backend development, and I'm continuously honing my skills to stay at the forefront of technology.
-
-## 🚀 Technical Skills
-
-### Programming Languages
-- **JavaScript (ES6+)**: Proficient in building dynamic web applications and leveraging modern JavaScript features.
-- **Java**: Experienced in backend development, particularly with Spring Boot 3.
-- **Kotlin**: Familiar with developing robust applications, exploring microservices with frameworks like Quarkus 3.
-- **React**: Competent in developing user interfaces with a focus on performance and best practices.
-- **Python**: Basic knowledge, used for data analysis and scripting.
-- **HTML5 & CSS3**: Strong understanding of web standards, accessibility, and responsive design.
-
-### Frameworks & Libraries
-- **React**: Building single-page applications (SPAs) with state management, component-based architecture, and hooks.
-- **Next.js**: Recently started exploring for server-side rendering and static site generation.
-- **Spring Boot 3**: Developing robust backend services with RESTful APIs, security, and persistence layers.
-- **Quarkus 3**: Exploring for building fast and lightweight microservices.
-
-### Tools & Platforms
-- **Git & GitHub**: Version control and collaboration on projects, including the use of GitHub Actions for CI/CD.
-- **Node.js**: Building backend services with Express.js and integrating with databases.
-- **Docker**: Containerizing applications for consistent development and deployment environments.
-- **GitHub API**: Building services that interact with GitHub for repository and branch management.
-- **LangChain (AI)**: Exploring embeddings and function calling, especially in JavaScript.
-- **WPS-like Text Editor (React)**: Developing a rich text editor inspired by WPS Office with features like real-time collaboration.
-
-### Databases
-- **MongoDB**: Experience in working with NoSQL databases, designing schemas, and optimizing queries.
-- **MySQL**: Understanding of relational databases, normalization, and query optimization.
-
-### Other Skills
-- **Mathematical Analysis (Calculus 2)**: Currently studying sequences and series to strengthen mathematical foundations.
-- **Microprocessor Programming (8085)**: Gaining knowledge in low-level programming and understanding hardware-software interactions.
-- **Critical Thinking & Problem Solving**: Applying logical reasoning to tackle complex challenges, especially in project development.
-
-## 🎯 Projects
-
-### [Waste Trader Platform](https://github.com/snrraptopack/waste-trader) 
-- **Description**: A platform to address waste management challenges in Ghana by connecting waste generators with recyclers and providing educational resources on sustainable waste management.
-- **Technologies**: React, Node.js, MongoDB, GitHub API, Docker.
-
-### [WPS-Like Text Editor](#)
-- **Description**: A rich text editor inspired by WPS Office, built with React, focusing on real-time collaboration and document management.
-- **Technologies**: React, Node.js, WebSockets.
-
-### [Algorithms](https://github.com/snrraptopack/algorithms)
-- **Description**: A service that interacts with the GitHub API to fetch repositories and branches for a given user.
-- **Technologies**: Node.js, Express.js, GitHub API.
-
-## 🌱 Learning & Development
-
-- **Next.js**: Deepening knowledge in server-side rendering and static site generation.
-- **AI Engineering**: Exploring more advanced AI concepts, including embeddings and function calling, to integrate AI capabilities into applications.
-- **Spring Boot & Quarkus**: Building scalable and efficient backend services with modern Java frameworks.
-- **Advanced React**: Transitioning into mastering React best practices, including state management with Redux, performance optimization, and testing.
-
-## 🏆 Achievements
-
-- **3rd Place in Hackathon**: My team secured third place in a recent hackathon, where we built an innovative solution under tight deadlines.
-- **Gemini API Developer Competition**: Actively preparing to join the Gemini API developer competition, focusing on building unique and impactful applications.
-
-## 📫 Contact Me
-
-- **Location**: Tarkwa, Ghana
-- **Phone**: (+233) 201356861
-- **Email**: [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com)
+Here’s an updated and polished version of your GitHub README/profile, incorporating your resume details and current projects while maintaining a professional and engaging tone:
 
 ---
 
-Let's connect and collaborate on building innovative solutions! Feel free to explore my projects and reach out for any potential opportunities.
+# **Amihere Theophilus Junior**  
+**Full-Stack Developer & AI Enthusiast**  
+📍 Tarkwa, Ghana | 📧 [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com) | 📞 (+233) 201356861  
+
+---
+
+## **👨‍💻 About Me**  
+Passionate Computer Science student (BSc, expected 2026) with expertise in full-stack development, AI integrations, and API design. I build scalable solutions with modern tech stacks, focusing on real-world impact—from secure escrow platforms to AI-driven sentiment analysis.  
+
+🔹 **Core Interests**: AI Research • API Architecture • EdTech • Sustainability Tech  
+
+---
+
+## **🛠️ Technical Skills**  
+
+### **Languages**  
+JavaScript (ES6+), TypeScript, Python, Java, Kotlin, HTML/CSS  
+
+### **Frameworks & Libraries**  
+**Frontend**: React, Svelte, Tailwind CSS, React Query  
+**Backend**: Node.js, Express, Bun, Deno, Oak, Spring Boot 3, Quarkus 3  
+**AI/ML**: OpenAI API, LangChain, Function Calling, Sentiment Analysis  
+
+### **Databases & Tools**  
+MongoDB, Firebase, MySQL | Git, GitHub Actions, Docker, Postman  
+
+### **Concepts**  
+REST APIs, Microservices, Async Programming, Escrow Workflows  
+
+---
+
+## **🚀 Featured Projects**  
+
+### **1. Kura – Escrow Platform**  
+🔗 [Live Demo](http://pvauife-ic89.vercel.app/) | 📂 GitHub: Private (Available on request)  
+**Tech**: React, TypeScript, Bun, MongoDB, PayPal API  
+- Full-stack platform for secure online transactions with buyer protection.  
+- Integrated PayPal for payments + email notifications for trust/safety.  
+
+### **2. AI Sentiment Analysis API**  
+🔗 [Live Demo](https://sentimental-analysis-frontend.vercel.app/) | 📂 [GitHub](https://github.com/snrraptopack/sentimental-analysis-backend)  
+**Tech**: Node.js, OpenAI API, Svelte  
+- Extracts structured emotional feedback from text using OpenAI’s function calling.  
+
+### **3. Waste Trader (Hackathon Winner 🏆)**  
+📂 [GitHub](https://github.com/snrraptopack/waste-trader)  
+**Tech**: React, Node.js, MongoDB  
+- 3rd-place hackathon project connecting recyclers with waste producers in Ghana.  
+
+### **4. promiseFor – NPM Library**  
+📦 [NPM](https://www.npmjs.com/package/promise-for-wrapper) | 📂 [GitHub](https://github.com/snrraptopack/promiseFor)  
+- Lightweight utility to normalize async/await into `[error, data]` tuples.  
+
+---
+
+## **🌱 Currently Learning**  
+- **Next.js**: SSR/SSG for performant web apps.  
+- **AI Engineering**: Advanced embeddings, LangChain integrations.
+- **Imba language**: for webdevlopment  
+- **Microservices**: Quarkus 3, Spring Boot 3 optimizations.  
+
+---
+
+## **📌 Achievements**  
+- **3rd Place, UWAT Innovation Fair Hackathon (2024)** – Built Waste Trader under tight deadlines.  
+- **Gemini API Dev Competition** – Preparing to compete with AI-driven apps.  
+- **Leadership**: High school ICT TA, Robotics projects (e.g., touchless COVID-era bin).  
+
+---
+
+## **📫 Let’s Connect!**  
+- **GitHub**: [@snrraptopack](https://github.com/snrraptopack)  
+- **Email**: [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com)  
+- **Portfolio**: *[Coming Soon!]*  
+
+--- 
+
+**Open to collaborations, internships, and innovative projects!** 🚀  
+
+---
+
+### **🎨 Profile Customization Tip**  
+Add a GitHub **README.md** badge for your NPM package:  
+```markdown
+[![npm version](https://img.shields.io/npm/v/promise-for-wrapper)](https://www.npmjs.com/package/promise-for-wrapper)
+```  
+
+This version keeps it concise, highlights your strengths, and aligns with your resume. Let me know if you'd like tweaks!
