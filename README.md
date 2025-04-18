@@ -82,9 +82,3 @@ REST APIs, Microservices, Async Programming, Escrow Workflows
 
 ---
 
-### **🎨 Profile Customization Tip**  
-Add a GitHub **README.md** badge for your NPM package:  
-```markdown
-[![3.1.1 ](https://img.shields.io/npm/v/promise-for-wrapper)](https://www.npmjs.com/package/promise-for-wrapper)
-```  
-
