@@ -35,7 +35,7 @@ REST APIs, Microservices, Async Programming, Escrow Workflows
 ## **🚀 Featured Projects**  
 
 ### **1. Kura – Escrow Platform**  
-🔗 [Live Demo](http://pvauife-ic89.vercel.app/) | 📂 GitHub: Private (Available on request)  
+🔗 [Live Demo](https://pvaulfe-1c89.vercel.app/) | 📂 GitHub: Private (Available on request)  
 **Tech**: React, TypeScript, Bun, MongoDB, PayPal API  
 - Full-stack platform for secure online transactions with buyer protection.  
 - Integrated PayPal for payments + email notifications for trust/safety.  
