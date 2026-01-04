@@ -3,7 +3,7 @@
 
 # **Amihere Theophilus Junior**  
 **Full-Stack Developer & AI Enthusiast**  
-📍 Tarkwa, Ghana | 📧 [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com) | 📞 (+233) 201356861  
+📍 Tarkwa, Ghana | 📧 [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com) 
 
 ---
 
