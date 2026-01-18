@@ -1,84 +1,170 @@
+# Amihere Theophilus Junior
+
+**Full-Stack Systems Engineer · AI Tooling & Language Designer**  
+📍 Ghana
 
 ---
 
-# **Amihere Theophilus Junior**  
-**Full-Stack Developer & AI Enthusiast**  
-📍 Tarkwa, Ghana | 📧 [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com) 
+## About Me
+
+I'm a builder focused on foundational developer tools — languages, frameworks, and AI-native platforms that reduce complexity and unlock speed.
+
+My work lives at the intersection of:
+
+- Programming language design
+- AI-driven developer experience
+- Scalable backend systems
+- Trust-centric platforms for real users
+
+I don't just ship apps — I design primitives, abstractions, and systems others can build on.
 
 ---
 
-## **👨‍💻 About Me**  
-Passionate Computer Science student (BSc, expected 2026) with expertise in full-stack development, AI integrations, and API design. I build scalable solutions with modern tech stacks, focusing on real-world impact—from secure escrow platforms to AI-driven sentiment analysis.  
+## Core Focus Areas
 
-🔹 **Core Interests**: AI Research • API Architecture • EdTech • Sustainability Tech  
-
----
-
-## **🛠️ Technical Skills**  
-
-### **Languages**  
-JavaScript (ES6+), TypeScript, Python, Java, Kotlin, HTML/CSS  
-
-### **Frameworks & Libraries**  
-**Frontend**: React, Svelte, Tailwind CSS, React Query  
-**Backend**: Node.js, Express, Bun, Deno, Oak, Spring Boot 3, Quarkus 3  
-**AI/ML**: OpenAI API, LangChain, Function Calling, Sentiment Analysis  
-
-### **Databases & Tools**  
-MongoDB, Firebase, MySQL | Git, GitHub Actions, Docker, Postman  
-
-### **Concepts**  
-REST APIs, Microservices, Async Programming, Escrow Workflows  
+- Language & runtime design
+- AI agent architecture
+- Backend frameworks & infrastructure
+- Generative UI & content tooling
+- Async & error-safe programming models
 
 ---
 
-## **🚀 Featured Projects**  
+## Projects & Platforms
 
-### **1. Kura – Escrow Platform**  
-🔗 [Live Demo](https://pvaulfe-1c89.vercel.app/) | 📂 GitHub: Private (Available on request)  
-**Tech**: React, TypeScript, Bun, MongoDB, PayPal API  
-- Full-stack platform for secure online transactions with buyer protection.  
-- Integrated PayPal for payments + email notifications for trust/safety.  
+### Auwla — Experimental Full-Stack Language
 
-### **2. AI Sentiment Analysis API**  
-🔗 [Live Demo](https://sentimental-analysis-frontend.vercel.app/) | 📂 [GitHub](https://github.com/snrraptopack/sentimental-analysis-backend)  
-**Tech**: Node.js, OpenAI API, Svelte  
-- Extracts structured emotional feedback from text using OpenAI’s function calling.  
+A research-driven full-stack language exploring:
 
-### **3. Waste Trader (Hackathon Winner 🏆)**  
-📂 [GitHub](https://github.com/snrraptopack/waste-trader)  
-**Tech**: React, Node.js, MongoDB  
-- 3rd-place hackathon project connecting recyclers with waste producers in Ghana.  
+- Unified frontend + backend abstractions
+- Declarative data flow
+- Compile-time safety for async and side-effects
+- Tight integration with modern runtimes
 
-### **4. promiseFor – NPM Library**  
-📦 [NPM](https://www.npmjs.com/package/promise-for-wrapper) | 📂 [GitHub](https://github.com/snrraptopack/promiseFor)  
-- Lightweight utility to normalize async/await into `[error, data]` tuples.  
+Auwla is designed to reduce the mental overhead of building and maintaining full-stack systems.
 
 ---
 
-## **🌱 Currently Learning**  
-- **Next.js**: SSR/SSG for performant web apps.  
-- **AI Engineering**: Advanced embeddings, LangChain integrations.
-- **Imba language**: for webdevlopment  
-- **Microservices**: Quarkus 3, Spring Boot 3 optimizations.  
+### Auwgent — Language for Building AI Agents
+
+A purpose-built language for defining AI agents as deterministic systems, not scripts.
+
+Focus areas:
+
+- Agent state & memory modeling
+- Tool orchestration
+- Predictable execution flows
+- Safer interaction with LLMs
+
+Auwgent treats agents as software, not prompts.
 
 ---
 
-## **📌 Achievements**  
-- **3rd Place, UWAT Innovation Fair Hackathon (2024)** – Built Waste Trader under tight deadlines.  
-- **Gemini API Dev Competition** – Preparing to compete with AI-driven apps.  
-- **Leadership**: High school ICT TA, Robotics projects (e.g., touchless COVID-era bin).  
+### Auwsome — Backend Framework
+
+A modern backend framework optimized for:
+
+- Clean async workflows
+- Explicit error handling
+- Service-to-service communication
+- AI-ready APIs
+
+Designed to pair naturally with Auwla and Auwgent, but usable independently.
 
 ---
 
-## **📫 Let’s Connect!**  
-- **GitHub**: [@snrraptopack](https://github.com/snrraptopack)  
-- **Email**: [snrraptopack@gmail.com](mailto:snrraptopack@gmail.com)  
-- **Portfolio**: *[Coming Soon!]*  
+### Ignis — Generative UI Engine
 
---- 
+A generative UI system for building:
 
-**Open to collaborations, internships, and innovative projects!** 🚀  
+- Websites
+- Mobile interfaces
+- Design-to-code pipelines
+
+Ignis focuses on structure-aware generation, not just visual output — making UIs editable, extensible, and production-ready.
 
 ---
 
+### Generative Studio
+
+A context-aware text-to-image platform built for content creators, not just image generation.
+
+Key ideas:
+
+- Persistent project context
+- Style and narrative continuity
+- Creator-first workflows
+
+It bridges the gap between raw generation and real creative work.
+
+---
+
+### CampusConnect — Student E-Commerce Platform
+
+Founder of a student-focused e-commerce platform built around trust.
+
+Core principles:
+
+- Escrow-like transaction flow
+- Buyer & seller protection
+- Campus-verified commerce
+
+Designed specifically for student ecosystems where trust matters more than scale.
+
+---
+
+### promiseFor — Error Handling Library
+
+A lightweight library for safe async and sync operations.
+
+What it solves:
+
+- Eliminates try/catch sprawl
+- Normalizes errors into predictable results
+- Improves readability and control flow
+
+Built for developers who care about correctness without sacrificing ergonomics.
+
+---
+
+## Technical Stack
+
+**Languages**  
+TypeScript, JavaScript, Rust, Python, Java, Kotlin
+
+**Backend & Runtimes**  
+Node.js, Bun, Deno, JVM (Quarkus, Spring Boot)
+
+**Frontend**  
+Svelte, React, Tailwind CSS
+
+**AI & Tooling**  
+LLM APIs, Agent tooling, Function calling, Structured outputs
+
+**Systems & Concepts**  
+Async programming, DSLs, API architecture, Escrow systems, Compiler-adjacent design
+
+---
+
+## Current Direction
+
+- Advancing Auwla's language model
+- Formalizing agent execution in Auwgent
+- Expanding Ignis into a full generative design system
+- Building trust-first digital platforms for real communities
+
+---
+
+## Philosophy
+
+> Good software is not just usable —  
+> it's predictable, composable, and hard to misuse.
+
+---
+
+## Connect
+
+📧 snrraptopack@gmail.com  
+🐙 GitHub: @snrraptopack
+
+Open to collaborations, internships, and innovative projects.
